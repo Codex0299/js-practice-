@@ -1,1 +1,1 @@
-# js-practice-
+# js-practice- // yo whats up github nerds i hope u are all doing fine if not i dont care anyways  this folder  is dedicated for js question which im gonna solve for next ( idontknowhowmanydays) until i finish js thanks for reading this readme shit <3
